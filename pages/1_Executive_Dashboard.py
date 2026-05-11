@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sqlalchemy import create_engine
+from database import engine
 from sklearn.linear_model import LinearRegression
 
 # =====================================================
@@ -596,9 +596,7 @@ st.markdown(
 # DATABASE CONNECTION
 # =====================================================
 
-engine = create_engine(
-    "postgresql+psycopg2://postgres:root@localhost:5432/nexusiq"
-)
+
 
 # =====================================================
 # SIDEBAR
