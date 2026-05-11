@@ -25,6 +25,11 @@ st.set_page_config(
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 
+if "username" not in st.session_state:
+    st.session_state.username = "Admin"
+
+if "role" not in st.session_state:
+    st.session_state.role = "Administrator"
 # =====================================================
 # LOGIN CHECK
 # =====================================================
