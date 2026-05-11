@@ -1,14 +1,12 @@
 import streamlit as st
 import pandas as pd
-from sqlalchemy import create_engine
+
 
 from styles import load_css
-
+from database import engine
 load_css()
 
-engine = create_engine(
-    "postgresql+psycopg2://postgres:root@localhost:5432/nexusiq"
-)
+
 
 st.title("Risk Monitoring")
 

@@ -10,9 +10,8 @@ st.set_page_config(
 )
 
 import pandas as pd
-from sqlalchemy import create_engine
 from sklearn.linear_model import LinearRegression
-
+from database import engine
 from styles import load_css
 
 # =====================================================
@@ -21,13 +20,7 @@ from styles import load_css
 
 load_css()
 
-# =====================================================
-# DATABASE CONNECTION
-# =====================================================
 
-engine = create_engine(
-    "postgresql+psycopg2://postgres:root@localhost:5432/nexusiq"
-)
 
 # =====================================================
 # PAGE TITLE
