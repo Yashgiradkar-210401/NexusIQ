@@ -1,10 +1,6 @@
 import pandas as pd
-from sqlalchemy import create_engine
 
-# PostgreSQL connection
-engine = create_engine(
-    "postgresql+psycopg2://postgres:root@localhost:5432/nexusiq"
-)
+from database import engine
 
 # Read CSV file
 df = pd.read_csv("datasets/raw/superstore.csv")
