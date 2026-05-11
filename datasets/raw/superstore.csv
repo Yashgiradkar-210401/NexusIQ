@@ -1,0 +1,501 @@
+Order Date,Customer Name,Segment,Region,Category,Sub-Category,Product Name,Sales,Profit,Quantity,Discount
+15-04-2023,Paul Jones,Home Office,East,Office Supplies,Binders,Binders Product 704,173.8,16.65,5,0.05
+28-01-2023,Robert Murphy,Home Office,West,Furniture,Chairs,Chairs Product 833,197.5,32.85,4,0.05
+07-01-2023,Elizabeth Russo,Consumer,South,Office Supplies,Appliances,Appliances Product 448,2747.46,459.7,4,0.15
+10-04-2023,Cassandra Briggs,Corporate,Central,Furniture,Chairs,Chairs Product 718,1115.8,81.66,6,0
+23-01-2024,Dr. Robert Gonzales,Consumer,Central,Furniture,Chairs,Chairs Product 949,3662.17,1074.04,9,0
+13-03-2023,Katherine Baker,Consumer,West,Office Supplies,Appliances,Appliances Product 891,4432.99,257.43,6,0.2
+12-10-2024,Charles Green,Corporate,West,Furniture,Chairs,Chairs Product 479,4283.82,383.37,2,0.15
+30-06-2024,Debbie Burton,Home Office,West,Furniture,Chairs,Chairs Product 267,3367.37,568.23,2,0.2
+27-02-2023,Vanessa Bruce,Consumer,East,Furniture,Tables,Tables Product 924,1386.24,292.71,9,0.05
+19-11-2023,Diana Lee,Consumer,South,Furniture,Tables,Tables Product 505,1375.32,315.07,4,0.2
+05-07-2024,Brittany Brown,Corporate,South,Office Supplies,Paper,Paper Product 697,757.21,171.32,3,0.05
+18-02-2023,Jonathan Myers,Consumer,West,Furniture,Tables,Tables Product 742,1135.64,151.47,3,0.2
+24-04-2024,Susan Norris,Home Office,Central,Technology,Laptops,Laptops Product 666,2139.69,246.93,2,0.15
+15-12-2023,Aaron Walker,Consumer,Central,Technology,Laptops,Laptops Product 545,3617.57,803.64,9,0.1
+03-06-2024,Tracey Johnson,Consumer,Central,Technology,Accessories,Accessories Product 961,66.06,13.24,5,0.2
+06-07-2024,Gavin Armstrong,Home Office,East,Office Supplies,Appliances,Appliances Product 713,3064.4,676.09,3,0.1
+04-09-2023,Erin Schultz,Home Office,East,Furniture,Tables,Tables Product 187,146.41,13.16,6,0.1
+01-05-2024,Ryan Jackson,Home Office,West,Office Supplies,Paper,Paper Product 371,4089.32,294.83,9,0.05
+07-12-2024,Deborah Logan,Consumer,Central,Office Supplies,Appliances,Appliances Product 508,2144.53,426.37,4,0.2
+19-08-2023,Jennifer Robinson,Consumer,Central,Office Supplies,Appliances,Appliances Product 121,1898.43,95.4,9,0.15
+08-10-2024,Kelsey Page,Consumer,West,Office Supplies,Appliances,Appliances Product 169,1189.07,80.56,4,0
+08-08-2023,Alejandro Hoffman,Home Office,West,Technology,Accessories,Accessories Product 840,400.74,79.04,4,0.1
+10-04-2023,Joshua Johnston,Home Office,South,Office Supplies,Appliances,Appliances Product 462,2389.72,161.55,8,0.15
+14-12-2023,Jennifer Brown,Consumer,West,Furniture,Tables,Tables Product 296,2361.77,153.88,1,0
+13-09-2023,Rebecca Jones,Consumer,South,Technology,Laptops,Laptops Product 927,2270.64,248.94,7,0.05
+31-08-2023,Johnathan Bowman,Consumer,South,Office Supplies,Binders,Binders Product 597,300.41,87.79,9,0
+04-02-2024,Kelly Goodwin,Corporate,South,Furniture,Chairs,Chairs Product 392,4330.02,583.44,1,0.05
+31-10-2023,Ann Hall,Consumer,East,Furniture,Storage,Storage Product 693,4788.72,281.09,9,0.15
+03-05-2024,Joseph Sanders,Home Office,West,Office Supplies,Appliances,Appliances Product 158,351.74,22,6,0
+29-08-2023,Greg Espinoza,Corporate,East,Office Supplies,Binders,Binders Product 683,4264.15,115.09,2,0.2
+20-08-2024,Melissa Salazar,Home Office,Central,Technology,Laptops,Laptops Product 367,2992.87,463.31,10,0
+18-11-2024,Michael Flores,Home Office,Central,Technology,Laptops,Laptops Product 568,3595.15,463.58,4,0.1
+17-03-2023,Ryan Acosta,Home Office,West,Furniture,Chairs,Chairs Product 618,96.11,24.89,10,0.2
+11-06-2023,Jason Lyons,Corporate,Central,Furniture,Chairs,Chairs Product 726,4669.63,618.17,2,0.05
+17-04-2023,John Edwards,Consumer,Central,Office Supplies,Appliances,Appliances Product 218,88.72,23.33,9,0.1
+18-12-2023,Mrs. Jennifer Stanley,Consumer,Central,Technology,Laptops,Laptops Product 617,2788.46,505.29,5,0.1
+11-10-2023,Steven Singh,Consumer,East,Furniture,Tables,Tables Product 441,4531.42,945.12,1,0
+13-03-2024,Melinda Carroll,Home Office,East,Technology,Laptops,Laptops Product 214,4900,773.81,3,0.15
+19-08-2024,Carrie Obrien,Home Office,West,Technology,Laptops,Laptops Product 540,4524.45,1170.24,9,0
+13-09-2023,Caleb Thompson,Home Office,East,Technology,Phones,Phones Product 462,1575.88,130.04,1,0.1
+01-07-2023,Samuel Ray,Corporate,East,Office Supplies,Paper,Paper Product 283,4870.49,1247.58,3,0.05
+19-12-2024,Gerald Mcdowell,Consumer,South,Office Supplies,Paper,Paper Product 993,3922.81,418.57,7,0.05
+22-08-2023,Javier Smith,Consumer,East,Technology,Accessories,Accessories Product 775,1151.05,122.35,8,0.1
+05-06-2024,Monica Wood,Corporate,Central,Technology,Accessories,Accessories Product 128,1674.9,197.28,2,0.1
+20-03-2024,Mark Rice,Corporate,Central,Technology,Accessories,Accessories Product 546,933.91,72.01,5,0
+26-12-2024,Charles Hansen,Corporate,East,Office Supplies,Appliances,Appliances Product 632,622.45,64.54,10,0.05
+11-11-2024,Kevin Contreras,Corporate,Central,Office Supplies,Appliances,Appliances Product 779,3611.18,497.71,4,0.1
+01-12-2023,Alexandra Carpenter,Corporate,Central,Technology,Laptops,Laptops Product 667,4505.23,886.28,9,0.1
+05-11-2023,Sarah Robinson,Corporate,East,Technology,Phones,Phones Product 411,2131.21,413.2,7,0.05
+21-04-2024,Jeffery Shaw,Corporate,South,Furniture,Chairs,Chairs Product 791,2177.95,378.26,10,0.2
+10-11-2024,Shaun Jones,Home Office,Central,Technology,Laptops,Laptops Product 195,2392.27,289.34,3,0
+08-09-2023,Keith Hill,Corporate,East,Technology,Laptops,Laptops Product 566,1586.58,73.15,4,0.05
+01-06-2023,James Clark,Home Office,East,Furniture,Storage,Storage Product 868,2899.57,347.7,7,0.15
+13-09-2023,Melissa Johnston,Consumer,South,Technology,Accessories,Accessories Product 236,1133.26,36.89,9,0.15
+29-03-2024,Paula Velez DVM,Home Office,South,Furniture,Storage,Storage Product 950,2679.1,239.31,9,0.2
+11-09-2023,Sabrina Williams DVM,Home Office,Central,Office Supplies,Paper,Paper Product 884,4491.18,380.84,8,0.15
+20-10-2023,Jacqueline Wagner,Consumer,Central,Office Supplies,Paper,Paper Product 443,3152.4,124.11,5,0.15
+06-06-2023,Justin Richard,Home Office,West,Furniture,Storage,Storage Product 165,448.86,60.94,3,0.05
+06-03-2024,Charles Fletcher,Corporate,East,Furniture,Tables,Tables Product 977,1687.86,60.03,8,0.15
+05-03-2024,Christine Ray,Home Office,West,Office Supplies,Paper,Paper Product 599,2411.05,526.5,6,0.1
+26-11-2024,Edward Payne,Corporate,West,Technology,Accessories,Accessories Product 960,2207.39,229.64,1,0.15
+29-08-2024,Connor Perry,Home Office,East,Furniture,Chairs,Chairs Product 185,4904.57,1357.25,9,0
+24-01-2024,Glenn Johnson,Corporate,West,Office Supplies,Paper,Paper Product 565,721.71,37.94,8,0.05
+07-03-2024,Megan Goodwin,Corporate,East,Furniture,Tables,Tables Product 581,3818.09,832.35,7,0.1
+29-10-2024,Robert Donovan,Consumer,East,Technology,Laptops,Laptops Product 353,2720.12,550.92,6,0.05
+28-04-2023,Robert Hughes,Home Office,West,Technology,Phones,Phones Product 576,3125.61,495.07,4,0.05
+28-04-2023,Mark Armstrong,Consumer,Central,Office Supplies,Paper,Paper Product 210,3846.15,622.35,3,0.2
+23-07-2023,Veronica Wyatt,Consumer,West,Office Supplies,Binders,Binders Product 204,4647.99,553.87,10,0.15
+02-08-2024,Robert Rocha,Consumer,Central,Office Supplies,Paper,Paper Product 645,4258.95,1060.72,10,0
+06-03-2024,Michelle Delgado,Corporate,East,Furniture,Storage,Storage Product 543,1884.33,62.49,9,0.1
+18-06-2024,Spencer Phillips,Home Office,Central,Furniture,Storage,Storage Product 730,4463.3,664.46,8,0.05
+09-09-2023,Charlene Green,Consumer,Central,Office Supplies,Paper,Paper Product 561,2351.13,259.98,10,0.1
+29-11-2023,Dr. Angela Bartlett MD,Consumer,South,Technology,Accessories,Accessories Product 317,2870.76,106.72,7,0.1
+13-06-2024,Andrew Gardner,Consumer,East,Furniture,Tables,Tables Product 347,1734.68,293.07,10,0.1
+17-05-2024,Julia Bailey,Corporate,East,Office Supplies,Paper,Paper Product 195,2468.46,447.97,4,0.15
+13-01-2024,Kathleen Perez,Corporate,Central,Furniture,Chairs,Chairs Product 535,2051.79,402.13,4,0.1
+25-08-2023,Rachel Santiago,Consumer,West,Office Supplies,Appliances,Appliances Product 423,1687.42,179.97,8,0.1
+10-05-2024,George Meza,Corporate,Central,Technology,Laptops,Laptops Product 202,2702.53,254.3,3,0.05
+30-06-2024,Ryan Perez,Consumer,Central,Technology,Accessories,Accessories Product 146,1176.04,39.44,3,0.1
+13-01-2023,Sean Phillips,Home Office,Central,Technology,Laptops,Laptops Product 580,1496.08,68.29,3,0.15
+04-05-2024,Travis Riley,Consumer,East,Furniture,Tables,Tables Product 510,1736.49,460.63,1,0.1
+30-07-2024,Brian Guzman,Corporate,East,Furniture,Chairs,Chairs Product 354,2906.25,224.65,1,0.05
+20-08-2023,Cassandra Floyd,Home Office,South,Technology,Laptops,Laptops Product 561,3834,796.27,10,0.2
+03-03-2023,Juan Morse,Home Office,East,Furniture,Tables,Tables Product 881,4307.82,741.62,7,0.1
+19-07-2024,Jason Allen,Consumer,West,Technology,Laptops,Laptops Product 102,1094.57,109.42,2,0.05
+23-10-2023,Alan Fernandez,Home Office,Central,Furniture,Tables,Tables Product 819,3462.39,132.12,8,0.1
+22-07-2023,Tyler Baker,Corporate,East,Furniture,Chairs,Chairs Product 657,3452.56,605.22,5,0.2
+19-06-2023,Kayla Mason,Corporate,Central,Technology,Laptops,Laptops Product 549,787.5,45.56,5,0.05
+20-05-2024,Joseph Wilson,Corporate,East,Technology,Accessories,Accessories Product 712,3458.96,536.55,7,0.1
+23-08-2023,Scott Bennett,Home Office,East,Technology,Accessories,Accessories Product 883,3685.94,134.41,10,0.1
+28-03-2024,Jennifer Christensen,Corporate,West,Office Supplies,Paper,Paper Product 699,2902.42,434.61,3,0.15
+08-12-2023,Andrew Fields,Corporate,East,Furniture,Storage,Storage Product 978,4080.51,436.57,2,0.15
+15-02-2024,Gerald Smith,Home Office,East,Technology,Accessories,Accessories Product 565,2087.64,408.44,8,0.1
+02-01-2023,Paula Ramirez,Home Office,South,Technology,Accessories,Accessories Product 523,1299.37,306.95,2,0.15
+22-02-2023,Stephanie Eaton,Consumer,Central,Technology,Phones,Phones Product 662,2616.27,461.38,10,0.15
+07-10-2024,Justin Miller,Home Office,West,Technology,Accessories,Accessories Product 826,2218.67,126.95,8,0
+27-04-2023,Sarah Martinez,Corporate,East,Technology,Accessories,Accessories Product 763,2776.65,120.24,9,0.15
+01-03-2024,Randy Fitzgerald,Corporate,South,Technology,Accessories,Accessories Product 349,4666.63,869.64,5,0.2
+20-05-2023,Brittany Alexander,Consumer,Central,Furniture,Storage,Storage Product 891,765.98,104.99,4,0.2
+17-10-2023,Dennis Smith,Home Office,Central,Furniture,Tables,Tables Product 957,4674.53,1099.16,9,0.1
+10-05-2024,Joshua Scott,Corporate,Central,Office Supplies,Appliances,Appliances Product 665,4994.57,757.36,8,0.05
+02-09-2023,Dennis Gibbs,Home Office,South,Office Supplies,Paper,Paper Product 339,2303.96,657.07,6,0.05
+10-11-2024,Joshua Ryan,Home Office,West,Furniture,Chairs,Chairs Product 607,1624.97,189.34,8,0.15
+26-03-2024,Sara Thornton,Consumer,South,Technology,Phones,Phones Product 115,2536.34,627.55,10,0.1
+29-09-2023,Megan Hall,Corporate,South,Office Supplies,Binders,Binders Product 765,2079.39,348.03,3,0
+03-10-2024,Jenna Baker,Home Office,South,Technology,Accessories,Accessories Product 993,4269.09,1103.71,9,0.15
+03-04-2023,Brittany Rivera,Corporate,East,Office Supplies,Binders,Binders Product 878,3106.42,867.8,4,0.1
+30-01-2023,Patrick Parker,Consumer,Central,Office Supplies,Appliances,Appliances Product 915,4369.27,932.84,8,0.05
+26-02-2024,Daniel Deleon,Home Office,West,Technology,Accessories,Accessories Product 274,1824.39,184.35,7,0.05
+24-05-2024,William Baldwin,Home Office,West,Technology,Phones,Phones Product 337,3066.98,554.46,7,0.2
+21-04-2024,Ms. Caitlin Salinas MD,Corporate,West,Furniture,Storage,Storage Product 175,1307.19,359.12,5,0
+12-04-2024,Gina Sanchez,Corporate,West,Furniture,Tables,Tables Product 493,4938.88,951.12,5,0.15
+17-12-2024,Christina Mcdaniel,Corporate,East,Furniture,Chairs,Chairs Product 949,1224.17,212.64,10,0.1
+23-05-2024,Crystal Warren,Corporate,West,Office Supplies,Paper,Paper Product 721,1408.68,391.13,10,0
+06-11-2024,Andrew Davies,Home Office,West,Furniture,Chairs,Chairs Product 743,3201.26,638.46,10,0.1
+09-01-2024,Katherine Vazquez,Home Office,West,Technology,Laptops,Laptops Product 192,3249.39,92.09,5,0.15
+06-07-2024,Jason Rose MD,Corporate,Central,Furniture,Tables,Tables Product 950,3750.03,273.9,3,0.05
+13-12-2023,Melissa Hess,Consumer,South,Technology,Accessories,Accessories Product 177,4574.54,991.03,8,0.1
+09-02-2024,William Mcdowell,Consumer,Central,Technology,Phones,Phones Product 649,4307.7,436.99,7,0.2
+15-10-2024,Kendra Wilson,Corporate,East,Technology,Accessories,Accessories Product 791,1874.5,197.3,5,0.2
+15-08-2023,Jacqueline Brown,Home Office,East,Technology,Accessories,Accessories Product 750,173.87,45,9,0.1
+08-02-2023,Rebecca Carter,Corporate,South,Furniture,Storage,Storage Product 218,1545.84,131.31,7,0
+17-11-2024,Marilyn Stephenson,Home Office,South,Technology,Phones,Phones Product 701,4441.93,592.6,3,0.15
+22-09-2024,Julia Cameron,Corporate,Central,Office Supplies,Appliances,Appliances Product 133,814.89,210.59,7,0
+12-04-2023,Michelle Roberson,Home Office,Central,Office Supplies,Paper,Paper Product 657,1125.48,285.72,8,0.05
+10-04-2024,Bonnie Carter,Consumer,West,Office Supplies,Paper,Paper Product 757,349.72,98.64,5,0.05
+09-05-2023,Brett Chandler,Home Office,West,Office Supplies,Appliances,Appliances Product 170,4856.91,441.46,1,0.1
+02-09-2024,Jennifer Taylor,Consumer,Central,Office Supplies,Binders,Binders Product 979,2952.6,660.18,4,0.1
+27-01-2023,Danielle Bell,Consumer,East,Technology,Phones,Phones Product 466,2724.07,586.4,3,0
+07-03-2024,Linda Taylor,Home Office,East,Technology,Laptops,Laptops Product 863,1652.67,71.23,3,0.1
+07-04-2024,Edwin Richards,Home Office,West,Technology,Accessories,Accessories Product 729,2268.96,359.44,6,0.2
+01-02-2023,Lisa Lane,Consumer,South,Technology,Laptops,Laptops Product 967,3926.97,567.49,9,0.1
+24-03-2023,Kimberly Young,Corporate,West,Furniture,Tables,Tables Product 167,3446.18,132.24,8,0.15
+26-01-2024,Joseph Wright,Home Office,Central,Technology,Accessories,Accessories Product 564,3140.37,590.51,10,0.2
+09-08-2023,Nicole Galvan,Corporate,South,Office Supplies,Appliances,Appliances Product 333,2179.49,414.56,2,0.2
+17-11-2023,Helen Bradshaw,Corporate,Central,Furniture,Tables,Tables Product 781,4145.73,839.11,7,0.15
+29-03-2023,Matthew Brewer,Consumer,South,Furniture,Tables,Tables Product 198,4770.28,347.31,8,0
+29-07-2024,Patricia Glass,Home Office,Central,Office Supplies,Appliances,Appliances Product 786,1894.6,47.36,3,0.2
+06-09-2024,Elizabeth Vazquez DDS,Corporate,Central,Technology,Accessories,Accessories Product 206,1800.31,525.87,7,0
+25-12-2023,Emily Cervantes,Home Office,Central,Office Supplies,Appliances,Appliances Product 217,1103.06,277.77,8,0.05
+28-09-2024,Kyle Dunn,Home Office,East,Furniture,Storage,Storage Product 723,1169.49,296.63,7,0.2
+13-11-2023,Carol Watson,Corporate,Central,Office Supplies,Appliances,Appliances Product 106,1373.87,282.57,3,0.1
+10-10-2024,Bryan Watts,Consumer,East,Technology,Phones,Phones Product 864,2853.29,243.87,7,0
+16-11-2023,Lawrence Miller,Home Office,Central,Office Supplies,Binders,Binders Product 895,1912.16,132.61,8,0.1
+24-09-2024,Jessica Chase,Consumer,East,Office Supplies,Appliances,Appliances Product 378,470.54,37.34,1,0.05
+09-08-2023,Stacie Mueller,Home Office,East,Furniture,Storage,Storage Product 453,2148.87,265.48,10,0.15
+12-11-2023,Steven Beltran,Consumer,West,Furniture,Chairs,Chairs Product 504,1452.07,220.33,10,0.15
+19-09-2023,Duane Cole,Corporate,Central,Office Supplies,Binders,Binders Product 222,88.05,20.41,5,0.05
+21-12-2024,Adam Gordon,Consumer,Central,Technology,Accessories,Accessories Product 173,3747.72,506.14,3,0.05
+17-11-2023,Rodney Moss,Home Office,South,Furniture,Storage,Storage Product 687,259.4,64.93,1,0.15
+29-11-2023,Lauren Cole,Consumer,South,Furniture,Storage,Storage Product 951,3218.7,486.85,5,0
+15-02-2024,Jason Jones,Home Office,East,Office Supplies,Paper,Paper Product 505,486.24,72.41,2,0.05
+10-10-2024,Lydia Martin,Consumer,West,Furniture,Storage,Storage Product 894,1730.59,102.27,6,0.05
+20-09-2023,Bethany Matthews,Consumer,West,Furniture,Tables,Tables Product 716,3650.53,239.84,3,0.05
+16-08-2024,Gabriel Butler,Corporate,Central,Technology,Laptops,Laptops Product 984,423,88.24,8,0.15
+07-11-2023,Chelsea Gordon,Corporate,East,Office Supplies,Paper,Paper Product 460,797.24,104.08,2,0.15
+21-10-2023,Alexander Young,Consumer,East,Office Supplies,Binders,Binders Product 729,1586.52,101.89,8,0
+12-02-2023,Christopher Montgomery,Corporate,West,Office Supplies,Appliances,Appliances Product 429,1953.19,485.48,10,0.2
+18-12-2023,Cody Wheeler,Home Office,East,Office Supplies,Paper,Paper Product 616,2531.77,116.15,1,0.15
+16-09-2024,Mark Chen,Consumer,Central,Office Supplies,Binders,Binders Product 481,243.75,36.81,8,0.15
+08-10-2024,Edward Hernandez,Home Office,Central,Furniture,Tables,Tables Product 167,2073.41,47.88,6,0.2
+03-11-2024,Anthony Norris,Home Office,West,Furniture,Chairs,Chairs Product 441,2811.92,261.51,7,0.1
+16-12-2024,Jennifer Hunter,Home Office,South,Technology,Laptops,Laptops Product 232,3334.88,906.83,6,0.1
+03-12-2023,Joseph Owen,Consumer,East,Office Supplies,Appliances,Appliances Product 761,4693.11,488.88,5,0.2
+08-08-2023,Cassandra Stewart,Corporate,South,Office Supplies,Paper,Paper Product 296,2567.02,275.23,1,0.1
+06-07-2024,Jennifer Long,Home Office,East,Technology,Phones,Phones Product 777,816.98,144.54,5,0
+10-12-2024,Stephanie Fuller,Home Office,West,Furniture,Storage,Storage Product 838,698.69,56.29,7,0.05
+04-04-2024,Ricky Rodriguez,Consumer,West,Furniture,Chairs,Chairs Product 416,2083.75,359.76,4,0.15
+16-10-2023,Derek Thomas,Corporate,South,Furniture,Chairs,Chairs Product 265,1870.81,253.35,10,0.15
+16-01-2024,Jessica Perry,Home Office,East,Technology,Laptops,Laptops Product 828,735.07,154.58,5,0
+09-06-2024,Kimberly Day,Consumer,South,Office Supplies,Binders,Binders Product 193,1461.06,207.95,3,0.1
+29-05-2024,Michael Alexander,Corporate,West,Technology,Accessories,Accessories Product 495,4428.92,147.55,1,0.15
+27-10-2024,Angela Walker,Corporate,West,Technology,Accessories,Accessories Product 240,1161.47,301.74,6,0
+25-04-2024,Kelli Carpenter,Corporate,East,Technology,Accessories,Accessories Product 181,4591.11,1054.63,8,0.05
+15-09-2024,Johnny Smith,Home Office,South,Technology,Accessories,Accessories Product 213,1117.49,273.85,3,0.2
+29-09-2024,Kelly Morris,Corporate,East,Furniture,Chairs,Chairs Product 213,1540.7,223.33,1,0.05
+28-05-2023,Michael Morrow,Corporate,South,Furniture,Storage,Storage Product 101,2703.47,190.55,9,0.2
+29-03-2023,Taylor Hamilton,Home Office,Central,Office Supplies,Paper,Paper Product 169,1240.79,255.72,7,0.05
+26-04-2024,Jason Ward,Consumer,South,Office Supplies,Appliances,Appliances Product 482,2561.27,38.63,9,0.2
+03-11-2024,Juan Mathews,Home Office,East,Furniture,Storage,Storage Product 890,130.4,11.77,2,0.1
+13-12-2023,Samantha Cohen,Home Office,West,Office Supplies,Appliances,Appliances Product 950,3795.56,524.07,3,0
+06-03-2023,Craig Boyd,Home Office,South,Office Supplies,Paper,Paper Product 137,4905.05,1191.31,8,0.05
+14-11-2023,Briana Holmes,Home Office,South,Furniture,Chairs,Chairs Product 934,266.84,34.4,4,0
+18-02-2023,Christine Patterson,Home Office,Central,Office Supplies,Paper,Paper Product 379,1303.9,155.48,4,0.1
+31-01-2024,Dr. Hannah Wood,Corporate,West,Technology,Accessories,Accessories Product 608,2212.91,539.2,7,0.15
+10-03-2024,Omar Caldwell,Consumer,South,Office Supplies,Paper,Paper Product 716,1868.37,430.26,9,0.1
+30-10-2023,Kimberly Cole,Corporate,South,Technology,Laptops,Laptops Product 717,1504.14,198.52,2,0
+28-12-2023,James Smith,Home Office,South,Office Supplies,Paper,Paper Product 381,874.89,124.04,8,0.1
+26-11-2024,Randall Martin,Consumer,East,Office Supplies,Binders,Binders Product 246,421.45,66.7,7,0.1
+22-10-2024,Jennifer Stewart,Corporate,Central,Office Supplies,Appliances,Appliances Product 492,3917.49,222.55,1,0.05
+20-03-2023,Mary Hernandez,Home Office,West,Office Supplies,Binders,Binders Product 642,3045.22,374.57,8,0.1
+27-01-2023,Mrs. Anne Raymond,Home Office,West,Furniture,Tables,Tables Product 611,1606.21,449.95,5,0.05
+21-12-2024,Amanda Thompson,Corporate,West,Office Supplies,Paper,Paper Product 726,4572.04,1022.95,2,0.1
+17-03-2023,Elizabeth Turner,Corporate,West,Furniture,Storage,Storage Product 830,4586.57,324.08,8,0.05
+17-07-2024,Daniel Thomas,Home Office,Central,Furniture,Chairs,Chairs Product 407,4062.04,842.41,6,0.1
+05-05-2023,Parker Haynes,Consumer,West,Technology,Laptops,Laptops Product 342,3562.34,559.96,3,0.1
+18-07-2024,Todd Turner,Consumer,East,Furniture,Chairs,Chairs Product 167,1836.44,269.68,10,0.1
+24-02-2024,Rhonda Carson,Home Office,East,Furniture,Tables,Tables Product 228,4998,563.27,8,0.2
+18-07-2024,Diamond Coleman,Home Office,West,Furniture,Storage,Storage Product 886,417.12,40.1,8,0.2
+08-11-2023,James Stewart,Consumer,West,Technology,Accessories,Accessories Product 430,2539.18,455.85,1,0
+14-09-2023,James Carlson,Consumer,Central,Office Supplies,Binders,Binders Product 228,1762.81,425.69,9,0.1
+29-08-2024,James Sellers,Home Office,West,Office Supplies,Paper,Paper Product 275,3091.42,526.3,2,0.2
+31-07-2024,Morgan Galvan,Consumer,East,Office Supplies,Appliances,Appliances Product 183,3617.13,870.4,10,0.1
+02-03-2024,Tiffany Delgado,Home Office,East,Technology,Laptops,Laptops Product 609,3866.56,896.04,5,0.05
+02-12-2024,Carlos Beard,Corporate,Central,Office Supplies,Appliances,Appliances Product 564,1483.87,120.52,5,0.15
+28-07-2023,Kari Peterson,Corporate,West,Technology,Laptops,Laptops Product 420,346.57,48.89,8,0.15
+15-01-2024,Daniel Shea DDS,Home Office,East,Office Supplies,Paper,Paper Product 426,3684.29,194.13,6,0.15
+21-02-2023,Andrew Davis,Corporate,South,Technology,Accessories,Accessories Product 984,656.48,49.38,8,0.05
+17-11-2023,Deborah Briggs,Consumer,West,Office Supplies,Paper,Paper Product 610,1278.94,336.92,3,0.1
+07-02-2024,Jonathan Humphrey,Home Office,South,Office Supplies,Paper,Paper Product 346,2518.86,64.97,5,0.15
+31-10-2024,Matthew Parks,Home Office,South,Technology,Laptops,Laptops Product 392,1796.83,276.22,1,0.1
+10-01-2024,Michael Oliver,Corporate,Central,Office Supplies,Binders,Binders Product 146,4243.5,1105.92,7,0.05
+17-03-2023,Nichole Reed,Corporate,South,Furniture,Chairs,Chairs Product 882,2872.89,483.52,4,0.1
+10-04-2023,Sheena Anderson,Corporate,Central,Office Supplies,Paper,Paper Product 913,4135.29,164.18,10,0.2
+16-02-2024,Stephen Ayala,Home Office,East,Furniture,Storage,Storage Product 146,4697.8,895.47,3,0.05
+12-09-2024,Angela Fuller DVM,Home Office,West,Technology,Phones,Phones Product 435,3582.28,445.09,8,0.2
+03-06-2024,Thomas Leonard,Home Office,South,Office Supplies,Paper,Paper Product 825,854.39,152.45,10,0.1
+23-04-2023,Stephanie Richardson,Corporate,Central,Office Supplies,Paper,Paper Product 915,2400.72,270.82,1,0.1
+02-11-2024,Jason Thomas,Home Office,West,Office Supplies,Appliances,Appliances Product 838,3164.84,273.39,10,0.15
+25-01-2024,Angela Baird,Consumer,West,Technology,Laptops,Laptops Product 132,2428.22,494.51,9,0.2
+05-06-2023,Virginia Conner,Corporate,West,Office Supplies,Appliances,Appliances Product 520,593.98,58.46,1,0.15
+28-07-2024,Timothy Simon,Corporate,South,Office Supplies,Appliances,Appliances Product 638,4606.58,781.6,1,0.05
+29-12-2023,Kyle Anderson,Home Office,Central,Furniture,Tables,Tables Product 724,4785.59,457.42,8,0.2
+01-11-2023,Thomas James,Corporate,West,Furniture,Chairs,Chairs Product 806,4788.82,405.25,5,0.2
+08-10-2023,Marc Vasquez,Corporate,East,Office Supplies,Paper,Paper Product 687,1619.35,394.19,6,0.2
+30-05-2023,Holly Zhang,Corporate,East,Office Supplies,Appliances,Appliances Product 394,1929.49,518.36,7,0.1
+08-08-2023,Emily Coleman MD,Consumer,Central,Office Supplies,Binders,Binders Product 675,1764.5,382.6,8,0.1
+21-02-2023,Christopher Anderson,Home Office,West,Office Supplies,Paper,Paper Product 753,729.5,50.93,10,0.2
+21-05-2023,Alan Robles,Consumer,West,Technology,Phones,Phones Product 516,545.98,24.64,6,0.15
+23-10-2024,Ross Ashley,Consumer,East,Office Supplies,Paper,Paper Product 767,2413.37,266.18,4,0.1
+30-06-2023,Alan Holden,Consumer,South,Office Supplies,Binders,Binders Product 906,2699,389.93,1,0.05
+04-08-2024,Eugene Smith,Home Office,East,Furniture,Chairs,Chairs Product 443,4686.21,245.17,5,0
+18-05-2023,Madison Hall,Home Office,South,Furniture,Tables,Tables Product 379,4946.04,660.19,9,0.2
+15-01-2023,Dr. Amy Chang,Home Office,Central,Technology,Phones,Phones Product 909,1686.89,353.66,8,0.1
+16-10-2024,Michelle Lee,Corporate,South,Furniture,Storage,Storage Product 627,3388.29,653.05,4,0.05
+03-05-2024,April Lee,Corporate,West,Furniture,Chairs,Chairs Product 106,2034.12,580.58,2,0.05
+09-08-2024,Renee Peck,Consumer,Central,Furniture,Tables,Tables Product 769,1215.83,128.25,5,0.1
+20-02-2024,Jeffery Holloway,Home Office,Central,Furniture,Storage,Storage Product 806,1219.7,117.95,2,0.15
+13-08-2023,Cheryl Molina,Consumer,South,Technology,Laptops,Laptops Product 256,4584.85,842.04,5,0.1
+27-04-2024,Raymond Johnson,Home Office,West,Furniture,Storage,Storage Product 880,4944.75,966.63,6,0.15
+21-12-2024,Elizabeth Clark,Corporate,East,Technology,Laptops,Laptops Product 677,3785.96,460.7,2,0.2
+03-06-2023,Patricia Fox,Consumer,Central,Technology,Phones,Phones Product 974,4152.43,760.62,9,0.05
+06-06-2024,Paula Mccullough,Corporate,East,Office Supplies,Paper,Paper Product 564,625.39,82.68,4,0.2
+19-11-2024,Alexander Serrano,Corporate,East,Technology,Laptops,Laptops Product 505,2106.35,399.57,10,0
+19-12-2023,Lucas Evans,Home Office,East,Furniture,Chairs,Chairs Product 654,3741.73,229.45,10,0
+04-07-2023,Amber Garrett,Consumer,South,Technology,Phones,Phones Product 483,4931.38,600.51,8,0
+08-11-2024,Lisa Stanley,Home Office,West,Furniture,Tables,Tables Product 769,4354.62,174.46,7,0.15
+17-08-2023,Michelle Stewart,Consumer,East,Furniture,Chairs,Chairs Product 405,933.44,142.08,9,0.15
+24-08-2023,Angelica Stewart,Consumer,South,Furniture,Storage,Storage Product 454,3609.52,378.35,7,0.2
+05-03-2024,Michael Jones,Home Office,East,Technology,Accessories,Accessories Product 346,982.98,248.07,2,0
+21-12-2024,Jordan Petersen,Consumer,West,Technology,Phones,Phones Product 858,549.44,93.1,1,0.15
+27-02-2023,Megan Dorsey,Consumer,Central,Technology,Accessories,Accessories Product 339,2222.87,508.14,9,0.05
+27-05-2023,Patricia Rice,Home Office,West,Office Supplies,Appliances,Appliances Product 523,1628.57,145.31,10,0.1
+13-03-2024,Louis Howard,Home Office,South,Furniture,Tables,Tables Product 148,351.74,69.12,10,0.05
+23-02-2024,Mrs. Chelsea Sullivan DDS,Consumer,Central,Furniture,Storage,Storage Product 485,3373.15,688.38,9,0.1
+28-05-2023,Elizabeth Cox,Corporate,East,Technology,Laptops,Laptops Product 675,2393.92,585.04,4,0.1
+28-07-2023,Donald Clarke,Corporate,East,Furniture,Tables,Tables Product 560,2808.57,226.69,3,0.15
+20-11-2024,Kevin Mcfarland,Home Office,East,Furniture,Chairs,Chairs Product 994,2701.4,316.38,4,0
+02-08-2023,Brenda Ibarra,Corporate,Central,Technology,Phones,Phones Product 115,4033.02,259.14,10,0.2
+13-12-2024,Brenda Cuevas,Home Office,West,Technology,Phones,Phones Product 506,4812.28,1196.38,2,0.15
+26-10-2024,Andrew Tucker,Corporate,Central,Technology,Laptops,Laptops Product 367,1641.99,224.23,5,0.15
+25-04-2024,Jose Cruz,Corporate,West,Furniture,Storage,Storage Product 479,4419.92,1108.09,8,0
+20-07-2024,Nicholas Kennedy,Home Office,South,Furniture,Tables,Tables Product 402,276.29,12.17,4,0.05
+26-05-2024,Kathleen Johnson,Home Office,Central,Technology,Phones,Phones Product 363,1682.83,367.43,7,0.2
+27-12-2023,Linda Dunlap,Consumer,West,Furniture,Storage,Storage Product 837,3226.39,200.22,8,0.15
+18-03-2023,Martin Sanchez,Home Office,East,Office Supplies,Paper,Paper Product 882,961.04,173.93,9,0
+10-01-2023,Christopher James,Consumer,South,Technology,Accessories,Accessories Product 482,730.58,165.69,4,0
+17-01-2023,Mrs. Marcia Decker DDS,Consumer,South,Technology,Laptops,Laptops Product 112,3206.76,592.68,10,0.15
+15-12-2024,Kerry Williams,Home Office,South,Technology,Laptops,Laptops Product 925,3624.85,124.28,9,0.1
+26-09-2024,Mrs. Joyce Smith,Home Office,Central,Technology,Phones,Phones Product 934,4594.34,460.55,9,0.05
+15-04-2024,James Patel,Home Office,West,Furniture,Tables,Tables Product 813,3984.93,1075.23,2,0.1
+24-01-2024,Dr. Nicole Rollins,Corporate,South,Technology,Accessories,Accessories Product 157,3436.01,252.12,2,0
+22-10-2024,Vincent Price,Corporate,East,Office Supplies,Binders,Binders Product 640,3529.08,816.39,2,0.15
+18-03-2023,Raymond Beck,Home Office,Central,Technology,Phones,Phones Product 656,1096.51,96.24,10,0.15
+24-08-2024,Robert Morales,Consumer,South,Office Supplies,Appliances,Appliances Product 178,212.86,61.81,6,0
+07-07-2024,Matthew Rowe,Corporate,South,Furniture,Chairs,Chairs Product 873,2841.59,537.8,10,0.15
+21-12-2023,Laura Lozano,Consumer,East,Office Supplies,Binders,Binders Product 547,3962.97,778.19,2,0.2
+01-12-2023,Richard Franklin,Consumer,Central,Technology,Phones,Phones Product 902,1735.93,189.52,10,0.2
+27-11-2024,Mary Williams DDS,Home Office,South,Furniture,Tables,Tables Product 187,1179.29,150.9,9,0.15
+25-01-2024,James Wilkerson,Home Office,West,Office Supplies,Paper,Paper Product 857,4000.37,468.02,2,0
+31-03-2024,Kyle Clark,Corporate,Central,Furniture,Tables,Tables Product 204,1835.47,524.47,2,0
+22-02-2024,Thomas Ware,Consumer,East,Technology,Phones,Phones Product 191,977.59,145.35,8,0.2
+13-01-2023,Kimberly Wright,Corporate,South,Furniture,Storage,Storage Product 497,510.67,125.59,10,0.1
+02-12-2024,Terri Pena,Corporate,West,Technology,Laptops,Laptops Product 242,4510.62,632.73,4,0.2
+10-10-2023,Randy Wilson,Corporate,Central,Furniture,Tables,Tables Product 595,1378.61,126.56,3,0
+20-07-2023,Richard Anderson,Corporate,East,Technology,Accessories,Accessories Product 238,1295.91,218.3,4,0.15
+04-12-2023,Hannah Valencia,Corporate,Central,Furniture,Chairs,Chairs Product 540,4746.68,498.27,6,0.2
+25-07-2023,Jenna Hughes MD,Corporate,Central,Office Supplies,Appliances,Appliances Product 281,723.82,178.65,6,0.2
+30-11-2023,Taylor Allen,Corporate,Central,Furniture,Tables,Tables Product 936,1492.67,306.73,8,0.2
+12-07-2024,Savannah Flowers,Consumer,East,Furniture,Tables,Tables Product 844,613.74,115.42,10,0.05
+23-02-2024,Heather Chavez,Home Office,South,Furniture,Storage,Storage Product 242,1087.76,277.1,5,0
+17-03-2023,Ann Klein,Corporate,South,Office Supplies,Paper,Paper Product 696,1248,271.15,3,0.15
+04-01-2024,Teresa Clements,Home Office,East,Furniture,Storage,Storage Product 211,2557.73,49.09,7,0.2
+22-10-2024,Kenneth Navarro,Home Office,South,Technology,Laptops,Laptops Product 870,3340.23,70.39,3,0.2
+15-06-2024,Kathy Morris,Home Office,West,Furniture,Tables,Tables Product 556,574.43,49.11,2,0.1
+26-01-2023,Sonia Moss,Corporate,East,Furniture,Tables,Tables Product 402,2342.16,111.69,10,0.2
+11-04-2024,Sandra Boyer,Consumer,South,Furniture,Chairs,Chairs Product 456,624.54,67.43,3,0.1
+15-02-2023,Christian Velasquez,Home Office,East,Furniture,Chairs,Chairs Product 123,2218.92,103.83,8,0.1
+19-07-2024,Heather Doyle,Consumer,Central,Furniture,Storage,Storage Product 673,591.35,99.94,3,0.05
+04-11-2024,Timothy Hess,Corporate,South,Furniture,Tables,Tables Product 129,1197.68,103.72,7,0.05
+05-01-2023,Leslie Sandoval,Home Office,West,Office Supplies,Appliances,Appliances Product 310,4421.33,519.01,8,0.2
+03-07-2024,Dale Long,Consumer,Central,Furniture,Storage,Storage Product 433,4053.21,143.64,2,0.2
+17-11-2023,Jeffrey Jones,Home Office,South,Technology,Accessories,Accessories Product 725,614.08,154.43,8,0.2
+20-11-2024,Scott Harris,Home Office,Central,Furniture,Storage,Storage Product 729,615.45,107.3,6,0.15
+30-04-2023,Laurie Thompson,Consumer,Central,Office Supplies,Binders,Binders Product 810,3376.94,370.26,6,0
+09-03-2024,Michael Luna,Consumer,South,Technology,Laptops,Laptops Product 750,1972.89,362.42,10,0.05
+23-10-2023,Kathleen Cole,Consumer,West,Office Supplies,Appliances,Appliances Product 422,4599.85,237.89,3,0.2
+19-07-2023,Lisa Meyer,Corporate,South,Furniture,Storage,Storage Product 518,315.38,53.98,6,0
+01-08-2024,Richard Wagner,Consumer,West,Office Supplies,Paper,Paper Product 399,2107.37,130.26,8,0.15
+02-08-2024,Angela Park,Home Office,South,Technology,Accessories,Accessories Product 662,1162.97,273.51,5,0.05
+11-01-2024,Darryl Frederick Jr.,Home Office,East,Office Supplies,Binders,Binders Product 878,2884.93,622.63,5,0.2
+31-10-2024,Lee Gilbert,Consumer,Central,Office Supplies,Paper,Paper Product 995,2754.45,644.53,7,0
+01-05-2023,Brian Sanford,Consumer,West,Technology,Accessories,Accessories Product 930,1350.94,319.26,2,0.15
+23-05-2023,Joseph Rice,Consumer,West,Office Supplies,Appliances,Appliances Product 924,3461.21,212.85,10,0.15
+28-11-2023,Todd Rodriguez,Home Office,Central,Technology,Laptops,Laptops Product 396,1786.54,258.5,5,0.2
+26-02-2024,Kenneth Ellis,Consumer,Central,Office Supplies,Paper,Paper Product 987,4764.37,399.72,9,0
+26-11-2023,Rebecca Valdez,Consumer,South,Office Supplies,Binders,Binders Product 601,3522.06,269.65,3,0.05
+10-10-2024,Erica Gaines,Consumer,South,Technology,Laptops,Laptops Product 627,3180.39,422.99,7,0.15
+02-12-2023,Brian Moore,Home Office,East,Office Supplies,Paper,Paper Product 989,3488.78,898.58,6,0.15
+01-07-2024,Howard Walker,Corporate,West,Office Supplies,Binders,Binders Product 539,3668.11,889.61,8,0.1
+14-05-2023,Jessica Brown,Home Office,South,Technology,Accessories,Accessories Product 907,1379.26,230.1,5,0.1
+15-04-2024,Colin Silva,Consumer,East,Furniture,Storage,Storage Product 978,3823.16,789.65,1,0
+16-05-2023,Shawn Tran,Home Office,Central,Technology,Accessories,Accessories Product 262,2309.76,667.34,7,0.05
+26-10-2024,Brian Ball,Consumer,East,Furniture,Chairs,Chairs Product 505,3290.21,470.37,5,0
+21-12-2024,Jennifer Gallegos,Consumer,East,Office Supplies,Paper,Paper Product 318,3643.64,669.96,4,0.15
+10-01-2023,Jacob Hernandez,Consumer,Central,Furniture,Chairs,Chairs Product 936,706.86,127.23,4,0.2
+02-04-2023,Christine Stewart,Home Office,East,Technology,Accessories,Accessories Product 205,3485.45,373.77,8,0
+17-05-2023,Benjamin Hernandez,Home Office,West,Furniture,Tables,Tables Product 170,4410.9,941.13,3,0.15
+07-08-2023,Rachael Morrow,Home Office,West,Office Supplies,Appliances,Appliances Product 521,91.95,9.91,3,0.15
+24-05-2023,Robert Hernandez,Consumer,South,Office Supplies,Appliances,Appliances Product 459,2239.8,614.04,4,0
+12-09-2023,Wayne Smith,Home Office,Central,Furniture,Tables,Tables Product 897,3965.83,758.09,4,0.1
+05-06-2024,Wendy Smith,Consumer,South,Office Supplies,Binders,Binders Product 402,4247.07,719.61,5,0.05
+04-09-2023,David Rios,Corporate,East,Office Supplies,Binders,Binders Product 640,3929.82,457.71,4,0.15
+05-08-2024,Ryan Davis,Corporate,Central,Technology,Accessories,Accessories Product 659,4672.93,1099.09,3,0.15
+15-01-2023,David Hunter,Corporate,West,Office Supplies,Binders,Binders Product 140,3825.49,753.01,2,0
+16-02-2024,Virginia Tucker,Consumer,West,Technology,Accessories,Accessories Product 384,2557.72,322,9,0.15
+05-02-2024,Jordan Wallace,Home Office,East,Technology,Accessories,Accessories Product 417,441.16,76.8,4,0.05
+20-03-2024,Kristy Johnson,Consumer,South,Office Supplies,Paper,Paper Product 726,3663.29,407.06,4,0
+21-05-2023,Ralph Woods,Home Office,East,Office Supplies,Binders,Binders Product 267,1580.99,84.06,3,0
+03-10-2023,Jeff Torres,Home Office,East,Furniture,Tables,Tables Product 889,2638.88,350.88,5,0.05
+30-12-2024,Valerie Montgomery,Home Office,East,Technology,Accessories,Accessories Product 608,4045.18,105.05,5,0.2
+11-06-2023,Erin Martinez,Corporate,East,Furniture,Storage,Storage Product 687,1832.61,94.78,8,0.2
+13-01-2023,Anna Ferguson,Consumer,East,Office Supplies,Appliances,Appliances Product 583,620.9,37.88,9,0
+02-11-2024,Shari Little,Corporate,West,Furniture,Tables,Tables Product 429,4605.12,866.76,3,0
+08-08-2024,Francisco Zimmerman,Corporate,East,Technology,Accessories,Accessories Product 614,4583.48,1083.99,6,0.1
+12-03-2023,Anna Giles,Corporate,Central,Office Supplies,Binders,Binders Product 892,937.75,270.56,9,0
+26-10-2023,Michael Johnson,Home Office,Central,Furniture,Tables,Tables Product 857,477.61,67.93,8,0
+20-07-2023,Lindsay Nielsen,Home Office,West,Office Supplies,Binders,Binders Product 254,2346.44,632.24,10,0.15
+11-12-2024,Sarah Brown,Consumer,Central,Technology,Accessories,Accessories Product 101,168.36,31.82,9,0.1
+01-09-2023,Tara Nichols,Corporate,South,Office Supplies,Paper,Paper Product 161,4252.58,430.78,5,0
+16-06-2024,Benjamin Mccarthy,Corporate,Central,Technology,Laptops,Laptops Product 569,1435.14,379.34,1,0.05
+08-02-2024,Amy Cline,Consumer,East,Office Supplies,Binders,Binders Product 545,2924.81,582.93,9,0.05
+07-02-2024,Jordan Garcia,Home Office,Central,Office Supplies,Binders,Binders Product 425,1222.02,319.57,5,0.1
+21-08-2024,John Baker,Consumer,West,Furniture,Tables,Tables Product 208,1206.38,283.48,4,0.05
+01-08-2023,Natasha Washington,Corporate,Central,Technology,Accessories,Accessories Product 574,2356.97,433.64,7,0
+02-12-2023,William Evans,Consumer,East,Furniture,Chairs,Chairs Product 828,497.58,9.99,5,0.2
+28-06-2023,Sarah Clark,Consumer,South,Technology,Accessories,Accessories Product 975,2011.41,191.17,1,0.1
+24-05-2023,William Hernandez,Consumer,East,Furniture,Storage,Storage Product 163,3752.99,621.16,4,0
+22-10-2024,Samantha Burgess,Consumer,Central,Technology,Phones,Phones Product 932,1030.76,207.77,7,0.1
+05-04-2023,Andrew Baker,Corporate,East,Technology,Phones,Phones Product 143,4985.95,1108.5,4,0.15
+09-02-2024,Angelica Hill,Corporate,East,Furniture,Chairs,Chairs Product 491,881.55,198.72,10,0.15
+01-04-2024,Paul Moore,Consumer,East,Office Supplies,Paper,Paper Product 728,905.4,98.46,4,0.05
+17-07-2024,Dalton Martin,Corporate,East,Office Supplies,Appliances,Appliances Product 189,1266.63,155.79,5,0.15
+10-07-2024,Hayley Lee,Consumer,South,Furniture,Tables,Tables Product 900,729.32,52.72,4,0.2
+29-05-2024,David Smith,Corporate,South,Office Supplies,Paper,Paper Product 376,2424.44,625.92,8,0.1
+15-10-2023,Christopher Flowers,Consumer,South,Technology,Phones,Phones Product 642,1628.44,446.1,4,0
+04-09-2023,Rachel Carroll,Corporate,East,Furniture,Storage,Storage Product 882,4998.05,559.6,3,0
+27-06-2023,Leroy Wagner,Consumer,West,Technology,Laptops,Laptops Product 706,4240.2,1118.57,7,0.1
+27-12-2023,Holly Allen,Home Office,West,Furniture,Storage,Storage Product 676,3503.25,791.26,10,0
+27-02-2023,Michael Rivera,Consumer,West,Technology,Accessories,Accessories Product 120,2733.52,80.61,3,0.15
+15-12-2023,Sophia Warner,Home Office,West,Office Supplies,Paper,Paper Product 921,53.38,12.9,10,0.05
+22-06-2024,Tyler Carlson,Corporate,East,Furniture,Chairs,Chairs Product 482,158.47,37.02,10,0.05
+20-05-2023,Richard Burns,Consumer,South,Office Supplies,Appliances,Appliances Product 910,2008.2,211.75,2,0.1
+20-09-2024,Stephanie Ramsey,Corporate,West,Office Supplies,Paper,Paper Product 781,3263.44,598.48,3,0.2
+02-01-2023,Andrea Arnold,Home Office,South,Office Supplies,Binders,Binders Product 971,1923,162.35,5,0.05
+02-08-2024,Eric Ball,Consumer,South,Office Supplies,Binders,Binders Product 244,951.3,62.05,6,0.2
+01-04-2023,Logan Henson,Home Office,Central,Furniture,Storage,Storage Product 557,435.14,31.32,6,0.1
+21-04-2023,Emily Henderson,Home Office,East,Technology,Accessories,Accessories Product 149,1087.94,102.45,2,0.1
+23-01-2024,Amanda Huff,Corporate,South,Furniture,Tables,Tables Product 203,3676.29,526.7,3,0.15
+04-02-2023,Jeffery Murphy,Corporate,East,Furniture,Storage,Storage Product 426,3272.3,500.08,4,0.05
+18-03-2023,Sarah Hawkins,Home Office,East,Furniture,Chairs,Chairs Product 446,417.29,25.13,3,0.15
+18-06-2023,Joseph Morrison,Home Office,South,Office Supplies,Appliances,Appliances Product 260,4471.47,1142.95,1,0.15
+07-07-2024,Bonnie Roberson,Corporate,Central,Technology,Phones,Phones Product 404,1688.92,328.16,4,0.15
+07-06-2023,Rachel Morales,Consumer,Central,Technology,Phones,Phones Product 103,295.7,65.04,10,0.2
+27-01-2023,Joy Garcia,Consumer,West,Furniture,Chairs,Chairs Product 753,1508.02,105.44,10,0.15
+27-04-2024,Nathan Caldwell,Corporate,Central,Furniture,Chairs,Chairs Product 193,2394.17,541.61,2,0.1
+01-04-2024,Cassandra Brown,Consumer,Central,Office Supplies,Appliances,Appliances Product 550,1968.26,221.13,6,0.15
+14-12-2024,Eric Phillips,Home Office,East,Furniture,Tables,Tables Product 187,1169.9,29.73,5,0.2
+04-03-2023,Brandon Fritz,Corporate,South,Office Supplies,Paper,Paper Product 648,4050.49,270.89,7,0.2
+09-02-2024,Joshua Castillo,Home Office,East,Office Supplies,Paper,Paper Product 614,2884.94,273.24,4,0.15
+04-04-2024,Taylor White,Consumer,West,Office Supplies,Appliances,Appliances Product 316,4012.23,281.14,10,0.05
+04-10-2024,Sherri Jones,Consumer,Central,Technology,Phones,Phones Product 427,261.25,18.41,2,0.15
+10-10-2023,Melissa Ramirez,Home Office,South,Office Supplies,Binders,Binders Product 994,480.79,75.97,9,0.15
+03-06-2023,Katherine Rice,Consumer,East,Technology,Laptops,Laptops Product 208,3134.14,150.85,9,0.15
+28-09-2023,Stephanie Ward,Corporate,South,Office Supplies,Binders,Binders Product 685,3939.44,982.79,9,0.1
+15-09-2024,Martin Lowe,Home Office,South,Office Supplies,Paper,Paper Product 139,235.46,13.18,5,0.15
+17-01-2024,David Mcdonald,Consumer,Central,Furniture,Tables,Tables Product 937,3468.04,867.73,1,0.15
+22-08-2023,Robin Mcdaniel,Consumer,Central,Furniture,Tables,Tables Product 861,1437.72,421.43,8,0
+12-07-2023,Aaron Rodriguez,Corporate,West,Furniture,Tables,Tables Product 943,1383.63,237.14,7,0.2
+11-06-2024,Anthony York,Consumer,East,Furniture,Storage,Storage Product 418,2448.08,575.92,9,0.1
+17-07-2023,Amber Moss,Consumer,East,Office Supplies,Appliances,Appliances Product 355,2046.76,35.28,9,0.2
+20-04-2024,Joshua Dunn,Home Office,South,Technology,Accessories,Accessories Product 750,300.27,32.58,6,0.05
+01-07-2023,Jessica Pham,Corporate,Central,Technology,Laptops,Laptops Product 452,201.29,33.92,6,0.15
+20-02-2023,Greg Mueller,Consumer,West,Technology,Accessories,Accessories Product 977,3757.36,138.51,2,0.1
+09-06-2024,Jonathan West,Consumer,East,Technology,Laptops,Laptops Product 585,1164.3,224.59,4,0.1
+09-11-2023,Edward Paul,Home Office,Central,Technology,Laptops,Laptops Product 533,907.34,93.54,1,0.05
+17-06-2024,Lisa Butler,Home Office,South,Furniture,Tables,Tables Product 698,2322.04,221.84,4,0.15
+15-09-2024,Jamie Chapman,Corporate,Central,Technology,Phones,Phones Product 800,2581.99,443.68,6,0.2
+25-09-2023,Cheryl Gallegos,Home Office,Central,Technology,Accessories,Accessories Product 292,365.99,89.8,5,0.1
+24-11-2023,Joshua Le,Home Office,West,Technology,Laptops,Laptops Product 838,3839.1,426.23,1,0.2
+19-02-2024,Kevin Johnson,Corporate,East,Technology,Laptops,Laptops Product 697,2512,644.9,5,0.1
+15-10-2024,Laura Mills,Corporate,Central,Office Supplies,Appliances,Appliances Product 619,4089.27,865.21,6,0.05
+27-04-2024,Joshua Schaefer,Consumer,Central,Furniture,Chairs,Chairs Product 842,4211.16,477.74,9,0.05
+17-08-2023,Karen Smith,Home Office,Central,Office Supplies,Binders,Binders Product 530,4737.27,500.08,6,0
+26-04-2024,Joshua Reyes,Consumer,East,Furniture,Tables,Tables Product 583,1339.77,311.9,5,0.15
+25-02-2023,Corey Bryant,Consumer,West,Technology,Laptops,Laptops Product 305,643.09,54.4,7,0.2
+04-07-2023,Melanie Hernandez,Consumer,South,Furniture,Tables,Tables Product 440,4936.6,587.93,8,0.05
+03-08-2023,Benjamin Hebert,Consumer,West,Office Supplies,Binders,Binders Product 601,1601.4,261.05,1,0
+03-05-2024,Cassandra Santiago,Corporate,East,Technology,Phones,Phones Product 138,3091.67,393.43,7,0.15
+27-06-2024,Rebecca Lopez,Consumer,East,Office Supplies,Binders,Binders Product 792,3666.76,803.8,1,0.1
+16-04-2023,Robert Edwards,Corporate,Central,Technology,Laptops,Laptops Product 271,3681.34,397.67,4,0.1
+02-09-2024,Mark Mejia,Home Office,Central,Technology,Phones,Phones Product 544,1526.1,308.21,5,0.15
+18-06-2023,Joanna Smith MD,Corporate,East,Office Supplies,Binders,Binders Product 333,1746.53,379.92,8,0.1
+23-06-2023,Elizabeth Hartman,Consumer,Central,Technology,Laptops,Laptops Product 828,4925.15,972.34,4,0
+31-08-2024,Vanessa Bradley,Consumer,East,Office Supplies,Binders,Binders Product 769,1907.2,316.18,5,0.2
+14-07-2024,Tiffany Kirby,Corporate,South,Technology,Phones,Phones Product 818,3464.26,398.61,7,0.15
+14-04-2023,Terry Cook,Home Office,Central,Technology,Phones,Phones Product 737,3491.2,472.07,1,0.1
+01-05-2023,Gary Ruiz,Corporate,East,Office Supplies,Appliances,Appliances Product 903,728.96,138.28,2,0.2
+26-07-2023,John Reyes,Corporate,South,Technology,Accessories,Accessories Product 402,1033.3,245.8,4,0.1
+03-01-2023,Megan Padilla,Consumer,East,Technology,Phones,Phones Product 213,2763.29,283.65,4,0.15
+14-04-2023,Cynthia Sanchez,Corporate,West,Office Supplies,Appliances,Appliances Product 567,2495.81,71.78,2,0.2
+25-10-2023,Mr. Brian Davis,Corporate,Central,Furniture,Tables,Tables Product 536,2348.17,607.08,2,0.05
+10-11-2024,Tiffany Russell,Home Office,West,Office Supplies,Binders,Binders Product 436,520.24,136.82,1,0
+17-12-2023,Timothy Kane,Consumer,East,Furniture,Tables,Tables Product 510,4777.69,683.95,5,0
+26-10-2024,Michelle Hines,Consumer,East,Furniture,Tables,Tables Product 235,1395.57,306.99,7,0.15
+27-08-2024,Ms. April Robinson,Corporate,South,Office Supplies,Appliances,Appliances Product 285,340.3,52.41,3,0
+14-05-2023,Rebecca Simmons,Corporate,South,Office Supplies,Paper,Paper Product 215,3906.86,1037.83,10,0
+25-11-2024,Angela Brown,Home Office,West,Furniture,Tables,Tables Product 785,277.56,9.18,5,0.1
+12-09-2023,Donald Espinoza,Corporate,Central,Furniture,Storage,Storage Product 779,2639.36,417.58,10,0
+20-10-2024,Kara Hinton,Consumer,South,Office Supplies,Appliances,Appliances Product 972,1955.14,46.22,9,0.2
+12-10-2023,David Watson,Consumer,West,Furniture,Chairs,Chairs Product 663,420.58,37.95,8,0.1
+09-08-2024,Brittany Jimenez,Corporate,East,Office Supplies,Paper,Paper Product 977,2046.22,337.16,4,0
+27-02-2024,Javier Harrison,Consumer,East,Furniture,Tables,Tables Product 945,1614.5,122.15,8,0
+01-11-2024,Courtney Wells,Home Office,South,Technology,Laptops,Laptops Product 449,4817.7,725.46,5,0.2
+26-09-2024,Veronica Gonzalez,Home Office,South,Furniture,Chairs,Chairs Product 833,4092.11,695.81,8,0.1
+16-08-2023,Christina Thompson,Consumer,Central,Office Supplies,Paper,Paper Product 463,3593.77,861.89,2,0
+18-06-2023,Kathy Rangel,Corporate,West,Office Supplies,Paper,Paper Product 941,2761.07,169.65,6,0
+12-07-2023,Joseph Henderson,Consumer,South,Office Supplies,Appliances,Appliances Product 320,3621.72,661.74,2,0.1
+10-10-2024,Christopher Robinson,Home Office,East,Furniture,Chairs,Chairs Product 890,3598.1,113.79,2,0.15
+05-01-2023,Kristin Guzman,Home Office,East,Furniture,Tables,Tables Product 666,3309.36,929.81,9,0.05
+27-06-2023,Kathleen Mahoney,Home Office,West,Furniture,Storage,Storage Product 206,2440.51,519.72,9,0.05
+04-03-2024,Laura Ramos DDS,Home Office,West,Furniture,Storage,Storage Product 380,3022.7,696.27,6,0.2
+08-09-2024,Jack Keller,Home Office,Central,Furniture,Tables,Tables Product 963,4853.93,361.84,8,0.05
+01-10-2024,Allen Brown,Home Office,Central,Office Supplies,Appliances,Appliances Product 803,4310.5,388.9,9,0.05
+14-10-2024,Elizabeth Olson,Corporate,East,Furniture,Storage,Storage Product 879,706.73,102.92,3,0.2
+30-06-2024,Christopher Bailey,Corporate,South,Furniture,Storage,Storage Product 927,2427.83,457.79,10,0.15
+27-02-2023,Sarah Robinson,Consumer,Central,Technology,Laptops,Laptops Product 868,577.03,30.74,7,0.05
+30-10-2023,Brett Gutierrez,Consumer,East,Technology,Accessories,Accessories Product 467,3432.78,764.3,3,0
+28-07-2024,Elizabeth Herrera,Corporate,West,Furniture,Chairs,Chairs Product 623,3099.74,699.31,9,0.05
+02-12-2024,Jessica Norton,Corporate,East,Office Supplies,Paper,Paper Product 113,3480.03,406.78,1,0.15
+22-12-2024,Laurie Garrison,Home Office,Central,Office Supplies,Paper,Paper Product 873,1055.28,282.68,8,0.05
+01-07-2023,Melvin Adams,Home Office,East,Office Supplies,Appliances,Appliances Product 291,3705.33,420.72,4,0.05
+23-07-2024,Jessica Fox,Corporate,West,Technology,Laptops,Laptops Product 264,2593.54,407.52,7,0
+27-11-2023,Eric Ward,Home Office,East,Office Supplies,Paper,Paper Product 892,77.94,3.9,8,0.05
+17-07-2024,Sandra Carter,Corporate,East,Office Supplies,Appliances,Appliances Product 902,4223.54,918.52,5,0.15
+01-06-2024,Crystal Fitzgerald,Consumer,South,Office Supplies,Paper,Paper Product 656,2650.71,71.69,3,0.2
+06-12-2023,Crystal Brown,Corporate,Central,Office Supplies,Paper,Paper Product 323,505.13,103.97,4,0.05
+21-12-2023,Carolyn Welch,Corporate,West,Office Supplies,Appliances,Appliances Product 757,2400.54,188.88,9,0
+27-04-2023,Andrea Smith,Corporate,Central,Office Supplies,Appliances,Appliances Product 653,1256.94,157.55,1,0.1
+04-06-2024,Jeffrey Foster,Corporate,South,Office Supplies,Paper,Paper Product 144,172.29,27.32,9,0.1
+21-06-2023,William Flores,Home Office,East,Furniture,Storage,Storage Product 741,1002.94,287.9,9,0
+30-07-2023,Erin Russell,Home Office,South,Technology,Phones,Phones Product 762,3368.16,771.03,4,0.15
+08-02-2023,Tamara Fox,Consumer,East,Technology,Laptops,Laptops Product 155,3445.92,686.49,1,0.15
+22-02-2024,Elizabeth Beltran,Corporate,South,Technology,Accessories,Accessories Product 745,2812.52,753.04,10,0.05
+18-10-2024,Terry Gregory,Home Office,East,Furniture,Tables,Tables Product 874,1616.2,296.91,7,0
+19-04-2023,Theresa Webb,Corporate,Central,Office Supplies,Appliances,Appliances Product 721,275.31,72.13,2,0.1
+07-11-2024,Holly Morgan,Consumer,South,Technology,Accessories,Accessories Product 260,3838.11,455.88,8,0.15
+11-10-2024,Ricardo Madden MD,Consumer,Central,Office Supplies,Binders,Binders Product 793,725.09,60.72,7,0.2
+25-05-2023,Ronnie Turner,Consumer,East,Office Supplies,Appliances,Appliances Product 105,1897,433.83,1,0.2
+19-12-2023,Brandon Jordan,Consumer,South,Office Supplies,Appliances,Appliances Product 761,2000.7,252.43,9,0
+18-07-2023,Carrie Garcia,Consumer,West,Office Supplies,Binders,Binders Product 787,846.72,185.17,4,0.2
+16-03-2023,Cassandra Simpson,Corporate,East,Office Supplies,Binders,Binders Product 356,4264.37,772.57,9,0.15
+18-11-2024,Kathy Ramsey,Home Office,West,Technology,Phones,Phones Product 202,3641.67,434.4,8,0.1
+03-12-2023,Michaela Williams,Home Office,Central,Furniture,Storage,Storage Product 810,395.55,59.91,4,0.1
+22-06-2023,Patricia Huffman,Consumer,Central,Office Supplies,Binders,Binders Product 352,2849.48,768.4,6,0.1
+18-05-2023,Michael Powers,Home Office,Central,Technology,Laptops,Laptops Product 998,3712.09,891,7,0.1
+29-06-2023,Lori Bowman,Home Office,East,Furniture,Tables,Tables Product 961,2254.52,356.03,5,0.15
+03-10-2024,Erin Ross,Consumer,East,Furniture,Chairs,Chairs Product 119,4461.92,952.11,4,0.1
+27-08-2024,Stacy Harris,Consumer,East,Office Supplies,Appliances,Appliances Product 664,204.41,22.75,10,0.2
+02-06-2023,Keith Johnson,Corporate,South,Furniture,Storage,Storage Product 328,4475.23,821.1,9,0.15
+03-04-2023,Kristina Cook,Corporate,Central,Office Supplies,Appliances,Appliances Product 614,4292.96,623.68,3,0.15
+24-05-2023,Jessica Smith,Corporate,West,Technology,Laptops,Laptops Product 283,1232.46,282.6,10,0.05
+11-02-2023,Raymond Graham,Consumer,South,Office Supplies,Appliances,Appliances Product 337,3314.1,844.41,3,0.15
+05-01-2024,Jorge Gaines,Corporate,South,Technology,Accessories,Accessories Product 565,1878.7,318.39,1,0.05
+17-06-2024,Amanda Williams,Home Office,Central,Technology,Phones,Phones Product 954,4903.92,1107.96,6,0
+23-01-2024,Kristin Cross,Corporate,East,Office Supplies,Paper,Paper Product 629,2914.23,390.99,10,0.05
+20-12-2023,Ian Phillips,Corporate,South,Furniture,Tables,Tables Product 718,4864.74,542.23,4,0.2
+10-06-2024,Michele Price,Home Office,Central,Technology,Laptops,Laptops Product 316,4416.07,430.56,8,0.05
+29-02-2024,April Weber,Corporate,East,Technology,Phones,Phones Product 593,828.92,178.45,10,0
+25-02-2024,Jonathan Willis,Consumer,West,Office Supplies,Paper,Paper Product 144,2421.15,488.62,10,0.05
